@@ -40,26 +40,26 @@ By the end of this course, you'll have built:
 
 ## Course structure
 
-### Module 1: Foundation (Weeks 1-2)
+### Module 1: Foundation 
 - [Unit 1: Hardware and environment setup](module-01-foundation/unit-01-setup/)
 - [Unit 2: Python audio basics](module-01-foundation/unit-02-audio-basics/)
 
-### Module 2: Audio fundamentals (Weeks 3-4)
+### Module 2: Audio fundamentals 
 Coming soon...
 
-### Module 3: Speech signal processing (Weeks 5-6)
+### Module 3: Speech signal processing
 Coming soon...
 
-### Module 4: Speech recognition (Weeks 7-9)
+### Module 4: Speech recognition 
 Coming soon...
 
-### Module 5: Speech synthesis (Weeks 10-11)
+### Module 5: Speech synthesis 
 Coming soon...
 
-### Module 6: Integration projects (Weeks 12-13)
+### Module 6: Integration projects 
 Coming soon...
 
-### Module 7: Deployment (Week 14)
+### Module 7: Deployment
 Coming soon...
 
 ## Getting started
