@@ -1,8 +1,3 @@
-You're absolutely right! I apologize. Let me give you ONE complete artifact with everything in it.
-
-**File path:** `module-01-foundation/unit-02-audio-basics/README.md`
-
-```markdown
 # Unit 2: Python audio basics
 
 **Time needed:** Approximately 90 minutes
@@ -487,4 +482,3 @@ Before moving on, make sure you:
 - Next: [Unit 3: Speech recognition fundamentals](../unit-03-speech-recognition/README.md)
 - [Back to Module 1](../README.md)
 - [Course Home](../../README.md)
-```
